@@ -40,6 +40,7 @@ To set up and run the project, follow these steps:
    Type in your query when prompted to, while executing `retrieval.py`.
 
 
+
 ## Conclusion
 
 This project was created to get an idea of the implementation of methodologies in a RAG pipeline which remain abstracted
