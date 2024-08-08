@@ -1,4 +1,4 @@
-#  Agentic system for creating research article with crewAI
+#  Q&A chatbot based on Speech Data
 
 A Q&A chatbot using <b>Langchain</b> framework utilizing a SLM like Google's <b>FLAN-T5-Large</b> trained on 783M parameters. 
 It is given a speech data from Andrew Huberman's <a href="https://www.youtube.com/watch?v=WDv4AWk0J3U"> podcast clip </a>, 
