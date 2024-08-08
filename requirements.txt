@@ -1,0 +1,10 @@
+os
+assemblyai
+nltk
+json
+sentence_transformers
+faiss
+numpy
+json
+pickle
+transformers
