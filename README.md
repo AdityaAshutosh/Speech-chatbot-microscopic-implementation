@@ -8,7 +8,7 @@ The purpose of utilizing FLAN-T5 was to check the capabilities of SLMs to genera
 We have also used popular embedding model, **all-MiniLM-L6-v2**, for creating vector embeddings and stored it in **FAISS**
 library. Speech to text conversion was done using **AssemblyAI** API.
 
-##Project Structure
+## Project Structure
   - `preprocessing.ipynb`: Speech to text conversion is done using **AssemblyAI** API and further text preprocessing was done using `nltk`.
   -  `embeddings.py` : Embeddings are created by iterating through the JSON response created after preprocessing. Embeddings were created
       using **all-MiniLM-L6-V2** embedding model available in **SentenceTransformer**. Embeddings are added in the FAISS library using FlatL2 
